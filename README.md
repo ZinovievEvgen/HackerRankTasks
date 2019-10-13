@@ -1,0 +1,3 @@
+HackerRankTasks
+________________________________________________________________________
+This repository is stored by solved task from https://www.hackerrank.com
